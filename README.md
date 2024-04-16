@@ -7,7 +7,7 @@
 <div align="center">
   <h1>HyperspaceZK</h1>
   <a href="https://github.com/hyperspaceai/hyperspacezk/blob/main/LICENSE">
-    <img alt="MIT License" src="https://github.com/hyperspaceai/HyperspaceZK/blob/main/LICENSE" />
+    <img alt="MIT License" src="https://img.shields.io/github/license/hyperspaceai/hyperspacezk" />
   </a>
   <a href="https://twitter.com/HyperspaceAI">
     <img alt="Twitter" src="https://img.shields.io/twitter/url.svg?label=%40HyperspaceAI&style=social&url=https%3A%2F%2Ftwitter.com%2FHyperspaceAI" />
@@ -65,9 +65,3 @@ Special shoutout to the following projects for their inspiration and guidance:
 - [WebRTC-rs](https://github.com/webrtc-rs/webrtc): A pure Rust implementation of WebRTC
 
 ---
-
-<a href="https://hyperspace.foundation">
-  <p align="center">
-    <img src="https://hyperspace.foundation/icons/favicon-48x48.png" alt="Powered by Hyperspace" title="Powered by Hyperspace">
-  </p>
-</a>
