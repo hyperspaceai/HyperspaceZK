@@ -1,0 +1,9 @@
+{
+  "name": "nanozk",
+  "version": "1.0.0",
+  "description": "Monorepo for the components of NanoZK",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
