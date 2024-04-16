@@ -18,7 +18,7 @@
     <img src="https://i.imgur.com/Ri3Wj2Q.png" alt="Example of using ZKWasm. Code for this can be found in the docs." />
     <figcaption>
       <p align="center">
-        <strong>Zero-Knowledge Proof</strong> - <a href="https://nanozk.com/docs">Documentation</a>
+        <strong>Zero-Knowledge Proof</strong> - <a href="https://hyperspacezk.com/docs">Documentation</a>
       </p>
     </figcaption>
   </figure>
@@ -40,7 +40,7 @@ The HyperspaceZK framework is a set of libraries and tools to help you write dec
 
 ## Quickstart
 
-There are a few [examples](https://nanozk.com/docs/examples) that you can use for playing out with HyperspaceZK or bootstrapping your new project. For example, if you want a Next.js app, you can use the full-stack Next.js example:
+There are a few [examples](https://hyperspacezk.com/docs/examples) that you can use for playing out with HyperspaceZK or bootstrapping your new project. For example, if you want a Next.js app, you can use the full-stack Next.js example:
 
 **Quick start with a full-stack Next.js example:**
 
